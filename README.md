@@ -1,2 +1,2 @@
-#celestial bodies Database using Freecodecamp objectives. 
+Celestial bodies Database using Freecodecamp objectives. 
 Technology used Postgres
